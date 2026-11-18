@@ -1,6 +1,6 @@
 {
   "source": "Warcraft Rumble game files (research/gamedata/build_minis.mjs). Game data Â© Blizzard Entertainment.",
-  "generated": "2026-11-17",
+  "generated": "2026-11-18",
   "stats": {
     "format": "single value = same at all levels; array = levels 1..31 (index 0 = level 1)",
     "scaling": "stats with a growth type: round(level 1 value x 1.1001^(level-1))"
