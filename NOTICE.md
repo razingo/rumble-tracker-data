@@ -30,5 +30,6 @@ These are extracted from the game's files by `research/gamedata/` and shipped in
 ## The player's own data
 
 The tracker reads Warcraft Rumble's saved settings from the Windows registry on the player's own PC, read-only, and
-keeps everything it stores in its own data folder on that PC. It sends nothing anywhere. The only network request it
-makes is the optional data-pack check (see README), which downloads files and sends no player data.
+keeps everything it stores in its own data folder on that PC. It sends nothing anywhere. Its only network requests
+are the optional data-pack check (see README), which downloads signed files and sends no player data, and the
+page's fonts from Google Fonts.
