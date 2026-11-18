@@ -1,7 +1,7 @@
 {
  "format": 1,
  "gameBuild": "16.1.2.119766",
- "dataVersion": "2026-11-18T00:00:11.143Z",
+ "dataVersion": "2026-11-18T00:09:37.643Z",
  "files": {
   "army_code_minis.json": {
    "sha256": "5d46ed983efc1598705aaa6472e605976b1137001f6658b6e68be70ac461a467",
@@ -20,24 +20,24 @@
    "size": 9802
   },
   "art/anub-arak.webp": {
-   "sha256": "ce5412a86664a2e1ffca5996491bc4b342f37d282fa83f30bb25489af1ea98c0",
-   "size": 9486
+   "sha256": "f93bd0800b26c6048016567fc68daeb90cb4da0c2feb74c47a89bb1fdceb5e63",
+   "size": 9208
   },
   "art/arcane-blast.webp": {
    "sha256": "9da030c0b99a043374890616f0abce25dd67e9a1aa699701cbbf6045f979cae0",
    "size": 15550
   },
   "art/arthas-menethil.webp": {
-   "sha256": "1e0b80d379c102b7f8d0bb0b2ed0a7ed9089338adad56f0be5fff96415ff658d",
-   "size": 12354
+   "sha256": "86e31129f645705d3fc45157f3af5c9dc8370908b15c88d881b3f5fb3436210b",
+   "size": 10204
   },
   "art/banshee.webp": {
    "sha256": "ab64655b0e4918a05c07c482cb99254f9a04567d0794f30d34c618dae311787e",
    "size": 13092
   },
   "art/baron-rivendare.webp": {
-   "sha256": "b98a94b2e2294fb63b90fd4274842985232ddefce1c7cb9e79a82945aa32082a",
-   "size": 9772
+   "sha256": "ce7a843529fc93e2976b46cd6c0f7fe975bef6dd09cc11978554696feeccf827",
+   "size": 8982
   },
   "art/bat-rider.webp": {
    "sha256": "238c04f9fd3b797913bc8154fbd4f0d3d2a87b7fb729a71ce58bb6add923b428",
@@ -52,28 +52,28 @@
    "size": 13124
   },
   "art/bloodmage-thalnos.webp": {
-   "sha256": "72c4c360fe3998039025e90ddcdf1bdadc7013b69cbef9e5343986375268e50d",
-   "size": 9996
+   "sha256": "6a66d52643834fa1c35e654cd6c4d0ce426f547275956b69ea282fbb36c326c8",
+   "size": 8518
   },
   "art/bog-beast.webp": {
    "sha256": "c44c53c06342725e02a42a45a93942384c6a89098d9e25ded705225a52a285fb",
    "size": 10394
   },
   "art/cairne-bloodhoof.webp": {
-   "sha256": "5b8e67e2b6fe3351e8ca900243dbbe874dc8b9db68b965553c7f2bea976b6c5c",
-   "size": 10976
+   "sha256": "f0fbb00dc72d5bbb5e541e412d6a66ca035470a454288ec54a47142140275632",
+   "size": 9286
   },
   "art/cenarius.webp": {
-   "sha256": "849722fe6a44fd1b2aa652c709882dd7b8390ddaef3e6302e7ad3d30b148e061",
-   "size": 10936
+   "sha256": "b1eab5c4815f539008b9108d2123e7623d6909904145f7b2c58c7240f547636f",
+   "size": 10804
   },
   "art/chain-lightning.webp": {
    "sha256": "37b40f60e37b7784afc014019cff82147c92d4c0ea03ff8023bd937436b96f3a",
    "size": 11536
   },
   "art/charlga-razorflank.webp": {
-   "sha256": "1aab6be801ff27b0b79189aff4bdd9d132bf7dd40ce761706ab4af9126a60236",
-   "size": 11262
+   "sha256": "8e966c0c6431808ad79f09e6c351cd13870ae4a22c34cbde4527f4694873af76",
+   "size": 9960
   },
   "art/cheat-death.webp": {
    "sha256": "7a13ded64ccd0211c8a848ddbd9ccd93323453c3c93f686aa58ce9bc24615dff",
@@ -132,8 +132,8 @@
    "size": 8348
   },
   "art/emperor-thaurissan.webp": {
-   "sha256": "4b1babfbf5675872dc7596802f510d67d6bd13d3ba28f7dddd9cecb9b3cfa4bd",
-   "size": 9428
+   "sha256": "07bba7514e24f4f7d1497b9d1257830eb884dd4fbfae2cf6ae23e736fa91a11a",
+   "size": 7664
   },
   "art/execute.webp": {
    "sha256": "ada5f526998dccd569012f379dddc15c9fdef50bf4bc54d70ec38f19dcad5484",
@@ -168,8 +168,8 @@
    "size": 11582
   },
   "art/general-drakkisath.webp": {
-   "sha256": "6738836c6af5fe611e1d4ef5ea7d4ed50ceb52b9b7f8c16518eff88289e55890",
-   "size": 11438
+   "sha256": "12f5a9c20b56ae99577bb30b17d2645a63e0714b2de4877a2f103c136315e757",
+   "size": 10110
   },
   "art/ghoul.webp": {
    "sha256": "ca3880ff73a9a016d52ebc6231974016919e4d508bc510200da07984ac396078",
@@ -184,8 +184,8 @@
    "size": 13314
   },
   "art/grommash-hellscream.webp": {
-   "sha256": "a63edba9a4b4f30da5bfc92efb28ea27d72acc8e47eed4f5a904ec8ab9f52b89",
-   "size": 7470
+   "sha256": "f789c4e6bc6de86ac745b184d288aab86036a1967712c2d50aaa64a104115cf9",
+   "size": 6904
   },
   "art/gryphon-rider.webp": {
    "sha256": "e6fda5e2ebd329e544b4690407dc8560ca5730dd96b5a1de62d06613d719438b",
@@ -204,8 +204,8 @@
    "size": 18744
   },
   "art/hogger.webp": {
-   "sha256": "0ac06a9f07cef058df13025200dcadf1b60ea3529a480adffc07908c0171dc19",
-   "size": 10496
+   "sha256": "fdad5d35af9e57e433b34ae3ed3ce5436d9d037132055f2485d1131d97088d55",
+   "size": 9962
   },
   "art/holy-nova.webp": {
    "sha256": "4ed703a2b2594bc9887b3c8fd2c21e12d0093b38339f1ad86002cc5660c3bd22",
@@ -216,8 +216,8 @@
    "size": 13218
   },
   "art/jaina-proudmoore.webp": {
-   "sha256": "e6d202ebe3fae8da076634d54217416ef4cae850638a4d91dca25cc772277f18",
-   "size": 12170
+   "sha256": "7a1fa048d4a14600218c103b82735ef5da9663750f1a7b1993fb8e5f43c5d7b3",
+   "size": 10550
   },
   "art/kobold-miner.webp": {
    "sha256": "ee5debf35bdeef62e4584da29bbb8b264faf4cb6c897f21cdce186e9f8347ee1",
@@ -228,12 +228,12 @@
    "size": 10834
   },
   "art/maiev-shadowsong.webp": {
-   "sha256": "00ffc63eae50e9d0baccea5a4aae7e858ea8f65dfa5e9663ee6962b9651b8675",
-   "size": 12538
+   "sha256": "9bd65a31730ecb1e1ccda6cdf7a80f704c7c30eed478297169519f1511ba23a0",
+   "size": 11212
   },
   "art/malfurion.webp": {
-   "sha256": "c8bbc9b7e5f7e16d2496c5b1dad80df93fe39eca6e7794a4a020c299b921350a",
-   "size": 13780
+   "sha256": "aab544cd98daf398224bcb0dd690842b3eb2681884b39f56856f77e65141418a",
+   "size": 11812
   },
   "art/meat-wagon.webp": {
    "sha256": "3ceb5e1587945fa2bc95bba613938d7163b2225ad70736f41c657a9b45a59feb",
@@ -264,16 +264,16 @@
    "size": 16438
   },
   "art/old-murk-eye.webp": {
-   "sha256": "0dff8c31f0e2604c5bc7162ec450960a8acd59a0d866594cc8567ba679815c4f",
-   "size": 8786
+   "sha256": "7666f1c1dbdaa2d070f8594f94fd6172b824b9332f889b04191f3675650fc380",
+   "size": 8622
   },
   "art/onu.webp": {
-   "sha256": "fb4b50b194149f1dca3173163b2115596c5a68769fd8e61ef351e5a521a2cac7",
-   "size": 9938
+   "sha256": "9822f5314c5fbeaf6dce3f74ea79d6d9167b9332f2f92f0cc387c42ce962d93b",
+   "size": 10016
   },
   "art/orgrim-doomhammer.webp": {
-   "sha256": "3b4a4600934ccc548c6d96ea7e7956473ca18a7e852b1a2c4816518cef9d76a4",
-   "size": 10742
+   "sha256": "941d49f830ea66fbc3caf44867474559c608421e7d246f56ecd58d247803bd3b",
+   "size": 9322
   },
   "art/plague-farmer.webp": {
    "sha256": "b8e49ad50bbbf4945990ac6c2dd542f5c02a1c89903f1036b63977b666f95d5c",
@@ -296,16 +296,16 @@
    "size": 12346
   },
   "art/ragnaros.webp": {
-   "sha256": "7b604c266acb22fd8c0de1d956ff5753d9d1dcdbf2fdaaebbe35842a78d2e91f",
-   "size": 13190
+   "sha256": "125ec12a81600517ad3f1b467ff74f579ce4b03559e3336c71f3f80860d82544",
+   "size": 10624
   },
   "art/raptors.webp": {
    "sha256": "560f2cbfec860e953be3631b44b9434052e0370d3054b37417dcb2812500452e",
    "size": 12076
   },
   "art/rend-blackhand.webp": {
-   "sha256": "557242b426a17592b66e07e5a564f397f6048fb356796e5b22d5f49036578ca1",
-   "size": 11794
+   "sha256": "5fdab7ab8e37efcb3315e28c14283f72fe8b23e73903d23449a54fe6b22a4bcd",
+   "size": 10324
   },
   "art/safe-pilot.webp": {
    "sha256": "b9b3b48464946962ee6da9c1f2802352123122702ca6b389af3740606fcbac51",
@@ -324,8 +324,8 @@
    "size": 9796
   },
   "art/sneed.webp": {
-   "sha256": "9f3b83e1cb84ed0d8012adf0e8b95a88ac105404b72450c4cc60e5bd6f8e97f3",
-   "size": 11166
+   "sha256": "5bf648aa38123238e4af17de1461b44adc4908654a0fda08dc343ea04c912075",
+   "size": 8894
   },
   "art/spiderlings.webp": {
    "sha256": "cfc7e848f1734a08fcba14dfefd235d15de330e8205ecd3b627d0b205d7e8ab6",
@@ -340,16 +340,16 @@
    "size": 14282
   },
   "art/sylvanas-windrunner.webp": {
-   "sha256": "270b316ca6d56664f6d3ddc84c4b3629ec2ecc91da3b8166e9d1d5af245111b4",
-   "size": 12960
+   "sha256": "d5780a7380b5f38784023269a64972e119c1d9ecc3ff53907b1bf37da9aa6762",
+   "size": 10654
   },
   "art/thrall.webp": {
-   "sha256": "5c6983ea3f46661f57315d630f4ae2d323e3cafb6540929e3d9c0e62fe8375c3",
-   "size": 13204
+   "sha256": "81b1528571e27120a96910f5d9335dfa5ff4762dea7baefc1da0394af03d3fbb",
+   "size": 11340
   },
   "art/tirion-fordring.webp": {
-   "sha256": "7664777a3c56f5171c4880171cf5b85fb1306db002033aeba9f464291f15a6cd",
-   "size": 14118
+   "sha256": "27d4ab7c5cd7eb4549ecb3cc3f084539fd2f9babba605e54932a805965dff1c6",
+   "size": 11774
   },
   "art/treant.webp": {
    "sha256": "50f62c4ee130125d33eba7906c47b83afdb0c94bcac62a0cd7e6f1f171afe902",
@@ -380,8 +380,8 @@
    "size": 15128
   },
   "art/ysera.webp": {
-   "sha256": "9d382bf5466cdef30e46f92b24b101d7eb743ce64186ce9c3f8db837b43887b7",
-   "size": 9988
+   "sha256": "8a7c26ffa08dd20dc4be12b470bb9d1031304bab016e7318944272b5bedcee2c",
+   "size": 8628
   },
   "currency/arcEnergy.png": {
    "sha256": "fad09537b4f4842869e6ee8c6a8f4392e3cc636877d963ff63aa46e1b7aa7d79",
@@ -432,7 +432,7 @@
    "size": 12552
   },
   "events.json": {
-   "sha256": "1eebaf6eb6b63a38d55ce711b6a7510b1e88f117dfee1e59996128e17bdee5a6",
+   "sha256": "0ba6df41aaeeaededf898f9287861b9bce8653888ad2937eb82ce5e0f8461153",
    "size": 417858
   },
   "events/arthas.webp": {
@@ -812,7 +812,7 @@
    "size": 8049
   },
   "minis.json": {
-   "sha256": "172add224b090038366a67970c90b145111f26d8e6f7cf7a69fb34343cb8b9bb",
+   "sha256": "aa3898bb6d745da54cc4f38d7b989ad11797fdbbbebbb25515d46ca1f29256c8",
    "size": 310801
   },
   "rewards/Indicator_ArthasBlood_Pose.webp": {
@@ -1084,7 +1084,7 @@
    "size": 4003
   },
   "store.json": {
-   "sha256": "2cd829b5362532cf36c080652a870239bd2e7e6da8fc94bca8129402e9855486",
+   "sha256": "831d1cc0052af8ec9fab378da5c3b15684c46b887bd70f1530b6e2c7af54d161",
    "size": 109108
   },
   "store/ArclightBoosterTrial_Store_Tex_Bundle_Art.webp": {
