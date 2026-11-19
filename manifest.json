@@ -1,7 +1,7 @@
 {
  "format": 1,
  "gameBuild": "16.1.2.119766",
- "dataVersion": "2026-11-19T15:04:04.135Z",
+ "dataVersion": "2026-11-19T23:22:46.531Z",
  "files": {
   "army_code_minis.json": {
    "sha256": "5d46ed983efc1598705aaa6472e605976b1137001f6658b6e68be70ac461a467",
@@ -436,8 +436,8 @@
    "size": 12552
   },
   "events.json": {
-   "sha256": "cf98b4d816f87f5ad9b85f69694054bc43d8ff2ccd81ef380411d7df2d7de6d4",
-   "size": 418571
+   "sha256": "b1065957852532a8d6e2478432820c49f02fc7eb8ea7716c836e1f52a9998ed3",
+   "size": 418533
   },
   "events/arthas.webp": {
    "sha256": "66c136c1aca26002d7da1eefcbe8ad0e096cc367c8607183bb2b0b19d97a07c0",
@@ -816,12 +816,12 @@
    "size": 8049
   },
   "minis.json": {
-   "sha256": "aa3898bb6d745da54cc4f38d7b989ad11797fdbbbebbb25515d46ca1f29256c8",
-   "size": 310801
+   "sha256": "7d7bd2f8c1400bdd2368c49648752c38eebe04fd286b34a37302ba29f53ef08d",
+   "size": 310765
   },
   "pvp.json": {
-   "sha256": "4abd3679e490bb2344fdafeeff2749896ac7758635bf79dd2ad54ac35aa8183b",
-   "size": 311243
+   "sha256": "ff385ebf186639ac360d96d3c56e49e2c807a8cb648edbba371c9503ccd3ee8b",
+   "size": 311208
   },
   "pvp/Indicator_UnitWIP_Pose.webp": {
    "sha256": "c3aad000715961c6164cc989c7f125cd2df11de0bb59dec772ecd2f7c7b8af76",
@@ -1184,8 +1184,8 @@
    "size": 4065
   },
   "store.json": {
-   "sha256": "831d1cc0052af8ec9fab378da5c3b15684c46b887bd70f1530b6e2c7af54d161",
-   "size": 109108
+   "sha256": "81d4b9da24494c2171f5a49abb6e8727616929d7ffef7befdd75a4055f98b7b7",
+   "size": 109072
   },
   "store/ArclightBoosterTrial_Store_Tex_Bundle_Art.webp": {
    "sha256": "087d219e6985fa2305d777dfc0d93a325f6f933a0ccef18734c66fabe2b22c57",
@@ -2764,11 +2764,11 @@
    "size": 6859
   }
  },
- "latestAppVersion": "0.5.0",
+ "latestAppVersion": "0.6.0",
  "latestApp": {
-  "version": "0.5.0",
-  "zip": "RumbleTracker-0.5.0-win-x64.zip",
-  "zipSha256": "5cbfd92d43d80dc63678c7d75896b7ff0f89749b5c1b6a2bd76ee6008c39bec4",
-  "exeSha256": "d344f039238bccee3a20730666aab121ffc9bfc9ba267498eacf3ad5bc1ef6b4"
+  "version": "0.6.0",
+  "zip": "RumbleTracker-0.6.0-win-x64.zip",
+  "zipSha256": "93fc8687774714f029e6e3cb97c322f9130959c9833db7c575176f1d0bce4918",
+  "exeSha256": "b77ddab175a2dc3d8b21d5d57bb34bd37b96d9650985bc9a89ac2ed635577894"
  }
 }
