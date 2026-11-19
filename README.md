@@ -34,6 +34,10 @@ files it doesn't already have and installs the new pack, but only when:
 So nobody else can push data to players' trackers, and a damaged or altered file is never used. The check downloads
 files only: it sends nothing about the player.
 
+This is also the only copy of the game data: to run or build the tracker from source, `npm run fetch-gamedata` (in
+the [rumble-tracker-app](https://github.com/razingo/rumble-tracker-app) repository) downloads it into `gamedata/`
+with the same checks.
+
 ## Problems
 
 Wrong or missing game data (a mini, an event, a price)? Use **Report a problem** in the tracker, or open an issue in
