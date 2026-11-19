@@ -1,7 +1,7 @@
 {
  "format": 1,
  "gameBuild": "16.1.2.119766",
- "dataVersion": "2026-11-19T13:44:06.961Z",
+ "dataVersion": "2026-11-19T15:04:04.135Z",
  "files": {
   "army_code_minis.json": {
    "sha256": "5d46ed983efc1598705aaa6472e605976b1137001f6658b6e68be70ac461a467",
@@ -818,6 +818,102 @@
   "minis.json": {
    "sha256": "aa3898bb6d745da54cc4f38d7b989ad11797fdbbbebbb25515d46ca1f29256c8",
    "size": 310801
+  },
+  "pvp.json": {
+   "sha256": "4abd3679e490bb2344fdafeeff2749896ac7758635bf79dd2ad54ac35aa8183b",
+   "size": 311243
+  },
+  "pvp/Indicator_UnitWIP_Pose.webp": {
+   "sha256": "c3aad000715961c6164cc989c7f125cd2df11de0bb59dec772ecd2f7c7b8af76",
+   "size": 1956
+  },
+  "pvp/PVPPortraitFrame_Default.webp": {
+   "sha256": "7f6b117c25bb5f3d3b87a501ec2be55837847b187695e362b32bede5d48fec75",
+   "size": 2686
+  },
+  "pvp/PVPPortraitFrame_Rank010.webp": {
+   "sha256": "7d9ff42b2f867edfd6d0aae81ebc9c0ae2a0a3635cd2a43f2b56621dfdccd3f5",
+   "size": 3740
+  },
+  "pvp/PVPPortraitFrame_Rank020.webp": {
+   "sha256": "4716edf6150efdc1e2b17313fc9128fdb026fed7293715b5a8f44faed820aaef",
+   "size": 3810
+  },
+  "pvp/PVPPortraitFrame_Rank030.webp": {
+   "sha256": "c7bf877a8eddfe15c3de73ced1d4c514572011aedf15ae1487ea9118989a508b",
+   "size": 4502
+  },
+  "pvp/PVPPortraitFrame_Rank040.webp": {
+   "sha256": "9a7e5d0f8d056bff9c62262f3d30509ee75b593db2766df560a133d423d2d52e",
+   "size": 4352
+  },
+  "pvp/PVPPortraitFrame_Rank080.webp": {
+   "sha256": "3e11aeacb73012faa4ade1d723690b26977ab0597cd70148dc6436740ee1e548",
+   "size": 4172
+  },
+  "pvp/PVPPortraitFrame_Rank090.webp": {
+   "sha256": "f77bee8c6e9b85d3c69a16b97f2b54f8631f1ad61db7b9f26c218c537bd2d8b3",
+   "size": 4218
+  },
+  "pvp/PVPPortraitFrame_Rank100.webp": {
+   "sha256": "68ab2cb08f792c379d773743991bae107bf375413fc9ad8006e2237f3d834fde",
+   "size": 5274
+  },
+  "pvp/PVPPortraitFrame_Rank110.webp": {
+   "sha256": "e4e71ac6849f51e8fde1c444ab9736e029f35339015b0208b41d4c403f9db95d",
+   "size": 5412
+  },
+  "pvp/PvPCard_Tex_Enchant_AdrenalineRush.webp": {
+   "sha256": "653cce8a741e6109750300e81b51b0e1646f697b023ad69e32b4c84cb7aebb00",
+   "size": 2678
+  },
+  "pvp/PvPCard_Tex_Enchant_BountyHunt.webp": {
+   "sha256": "e69475a410f0e8b4991fbbd5ee6be197b987cd25665d9c4c88bd40375f52b32f",
+   "size": 4344
+  },
+  "pvp/PvPCard_Tex_Enchant_CollateralDamange.webp": {
+   "sha256": "41bcf9a997fcadb5e8ce281709ea2d5dacf83b702ff79bf85d7766bc6ddfc2c9",
+   "size": 3088
+  },
+  "pvp/PvPCard_Tex_Enchant_Stonebind.webp": {
+   "sha256": "b33948aee2f468fef323e4bd7f2a6ea6d9bd89ca88b4a303d75859a4e89e2978",
+   "size": 2956
+  },
+  "pvp/PvPCard_Tex_Enchant_Ward.webp": {
+   "sha256": "23dbf46598defc55129a107342d323fdada1ef64673c4bff8f93eea78ce09d45",
+   "size": 3442
+  },
+  "pvp/PvPCard_Tex_Modifier_CleanFight.webp": {
+   "sha256": "ac159a80508748f601b8c6cc477c07b52eac30bccc0662f0290ce03f857d2e50",
+   "size": 2832
+  },
+  "pvp/PvPCard_Tex_Modifier_FirstStrike.webp": {
+   "sha256": "c543f782119d4db33ae4afa7dfb4321b8dd98c2651336aa497699b15fb1ae515",
+   "size": 3136
+  },
+  "pvp/PvPCard_Tex_Modifier_Fortification.webp": {
+   "sha256": "d13a1ae788c8f25444cd3e1e0d82b64f3aec975241ba66c82ac101890e7d8d3d",
+   "size": 4508
+  },
+  "pvp/PvPCard_Tex_Modifier_HerosResolve.webp": {
+   "sha256": "d4603530de082efa0582548b86391cc062283d41fcbf0e08bfd43211f245eb7f",
+   "size": 4160
+  },
+  "pvp/PvPCard_Tex_Modifier_IncomeBoost.webp": {
+   "sha256": "91e09881825b3ee2555aac9a110ef3760af38829184be471bb2c26fad308e39d",
+   "size": 3020
+  },
+  "pvp/PvPCard_Tex_Tower_Dragon.webp": {
+   "sha256": "9134a36345a71e79687c58278639f5cc34f3ca8334093c6ce96f8e90ed55ce47",
+   "size": 3794
+  },
+  "pvp/PvPCard_Tex_Tower_Guard.webp": {
+   "sha256": "9762f1f567fe4502609c43130bc5159e3b6f1b03e81ce4f6948dd8abab011a3a",
+   "size": 3628
+  },
+  "pvp/PvPCard_Tex_Tower_Rocket.webp": {
+   "sha256": "47f0b74ebc88dd55d5e0f3a78455ad2daa98b190edc3f91bd0105378ad61fdd9",
+   "size": 3806
   },
   "rewards/Indicator_ArthasBlood_Pose.webp": {
    "sha256": "cccc60dcb7d0aa5cc2a9f8cc844f6ae5ccb48e6b4b9791d683937cf571f941d1",
@@ -2668,5 +2764,5 @@
    "size": 6859
   }
  },
- "latestAppVersion": "0.2.1"
+ "latestAppVersion": "0.3.0"
 }
