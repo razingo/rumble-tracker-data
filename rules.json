@@ -54,7 +54,8 @@
     "2464c6623949594eaba745a37444f908": "currency/rareCore.png",
     "d4c2be6ba93da5dc2f185c484aca18aa": "currency/epicCore.png",
     "74a7d9e0deb049297b2e20b6b87514a9": "currency/legendaryCore.png",
-    "44b7dad7dfaa4aae8eb69b8dbf6968b8": "currency/gridResets.png"
+    "44b7dad7dfaa4aae8eb69b8dbf6968b8": "currency/gridResets.png",
+    "32141a9ef28487c729b80616d70185ba": "currency/ankh.webp"
   },
   "currencyDefaultNames": {
     "valor": "Valor",
