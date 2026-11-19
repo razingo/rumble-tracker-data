@@ -1,7 +1,7 @@
 {
  "format": 1,
  "gameBuild": "16.1.2.119766",
- "dataVersion": "2026-11-18T00:09:37.643Z",
+ "dataVersion": "2026-11-19T13:44:06.961Z",
  "files": {
   "army_code_minis.json": {
    "sha256": "5d46ed983efc1598705aaa6472e605976b1137001f6658b6e68be70ac461a467",
@@ -383,6 +383,10 @@
    "sha256": "8a7c26ffa08dd20dc4be12b470bb9d1031304bab016e7318944272b5bedcee2c",
    "size": 8628
   },
+  "currency/ankh.webp": {
+   "sha256": "17be2e8102677482b96e83b47c8c36d7e9330278563c1fc87d91cadd1c340b44",
+   "size": 3370
+  },
   "currency/arcEnergy.png": {
    "sha256": "fad09537b4f4842869e6ee8c6a8f4392e3cc636877d963ff63aa46e1b7aa7d79",
    "size": 5600
@@ -432,8 +436,8 @@
    "size": 12552
   },
   "events.json": {
-   "sha256": "0ba6df41aaeeaededf898f9287861b9bce8653888ad2937eb82ce5e0f8461153",
-   "size": 417858
+   "sha256": "cf98b4d816f87f5ad9b85f69694054bc43d8ff2ccd81ef380411d7df2d7de6d4",
+   "size": 418571
   },
   "events/arthas.webp": {
    "sha256": "66c136c1aca26002d7da1eefcbe8ad0e096cc367c8607183bb2b0b19d97a07c0",
@@ -1080,8 +1084,8 @@
    "size": 5396
   },
   "rules.json": {
-   "sha256": "f075bbafd39e00bb745868259555c8cb3466a66d7b7492978247bb470138555d",
-   "size": 4003
+   "sha256": "71ce20ae6476555b853490c5d0cde9bffa955a323b733220d116ca3a85b89655",
+   "size": 4065
   },
   "store.json": {
    "sha256": "831d1cc0052af8ec9fab378da5c3b15684c46b887bd70f1530b6e2c7af54d161",
@@ -2663,5 +2667,6 @@
    "sha256": "d0b771f47b624b613e1990e7b195083b83e65e084bf063e9c503067fef5980bf",
    "size": 6859
   }
- }
+ },
+ "latestAppVersion": "0.2.1"
 }
