@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-18",
- "note": "Built from the game files by research/gamedata/build_store.mjs",
+ "note": "Built from the game files.",
  "offers": {
   "94077f4039af79787d8723f52acd7bfa": {
    "name": "Basic_Booster_StoreOffer",
