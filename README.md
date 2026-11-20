@@ -15,12 +15,14 @@ reach players through this repository, without a new version of the app.
 | Unit IDs and army codes | `unit_ids.json`, `army_code_minis.json` |
 | Events: schedules, reward trees, ticket totals | `events.json`, `events/`, `rewards/` |
 | Shop offers and G.R.I.D. prices | `store.json`, `store/` |
+| PvP: seasons and their maps, ranks, modifiers, honor and Victory Road | `pvp.json`, `pvp/` |
 | Game rules: currencies, army slots, upgrade costs | `rules.json`, `currency/` |
 | Mini portraits, icons, card frames and boards | `art/`, `icons/`, `ui/` |
 | The list of files with their checksums, and the game build they come from | `manifest.json` |
 | The signature of that list | `manifest.sig` |
 
-The files are served as they are from GitHub Pages: <https://razingo.github.io/rumble-tracker-data/>.
+The files are served as they are from GitHub Pages, for example
+<https://razingo.github.io/rumble-tracker-data/manifest.json>.
 
 ## How the tracker uses it
 
