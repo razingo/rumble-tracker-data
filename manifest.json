@@ -2764,11 +2764,11 @@
    "size": 6859
   }
  },
- "latestAppVersion": "0.8.0",
+ "latestAppVersion": "0.8.1",
  "latestApp": {
-  "version": "0.8.0",
-  "zip": "RumbleTracker-0.8.0-win-x64.zip",
-  "zipSha256": "de72ef5eb30b19b0f9f67509e0e31c29c4bd9bb4c3e2ee51740ce169d0257535",
-  "exeSha256": "809b651ffcb35695a505b641c14df3aa72aab294c7b327cdedb750901ff3a1bb"
+  "version": "0.8.1",
+  "zip": "RumbleTracker-0.8.1-win-x64.zip",
+  "zipSha256": "bce7afc0f4062b47e8d2d862a1d846cc639ed53540c2a0b787e078f79957bd01",
+  "exeSha256": "feb2cd3a58ad23bc5284ef7c5533ced2a78b92c2db953adf688b5dd24c80edf9"
  }
 }
