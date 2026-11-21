@@ -2764,19 +2764,19 @@
    "size": 6859
   }
  },
- "latestAppVersion": "0.9.5",
+ "latestAppVersion": "0.9.6",
  "latestApp": {
-  "version": "0.9.5",
-  "zip": "RumbleTracker-0.9.5-win-x64.zip",
-  "zipSha256": "c0f0d3be05d4c3ca2ce9dbc569c6f70a01bb7dd8d3679baf5baeac2acaaa09ef",
-  "exeSha256": "64c1b01e5382b27aee2f831a5f6e82c0561e8cf8c5bbce3916826ba5bdc3afa2"
+  "version": "0.9.6",
+  "zip": "RumbleTracker-0.9.6-win-x64.zip",
+  "zipSha256": "324a67d8fb381e145e28d675e3b2eb1250ce6866b6ab595a255e71e7e3b51128",
+  "exeSha256": "8cdf66ec87326a040aef51cf0675cd54e1fb15d99582ea9ec16f12e920edccbe"
  },
  "apps": {
   "rumble-tracker-sa": {
-   "version": "0.2.1",
-   "zip": "RumbleTracker-0.2.1-win-x64.zip",
-   "zipSha256": "f9f4fa73305e024ba9666a2bfc3dbd7811b00fb471abc7c97d56ccd232d45987",
-   "exeSha256": "f9e568aba2a83a76b204d56440d25d88623f28ec973ac9415397ef0639055192"
+   "version": "0.2.2",
+   "zip": "RumbleTracker-0.2.2-win-x64.zip",
+   "zipSha256": "8b0cad1e24aa06a94ae918c742e2a408d2b57f1b287c9712bdb0f0c85df94bd1",
+   "exeSha256": "0df843bb6c70606d3f619c917094a9285019abdf84c32647749bc00dcb7e7034"
   }
  }
 }
