@@ -2773,10 +2773,10 @@
  },
  "apps": {
   "rumble-tracker-sa": {
-   "version": "0.3.1",
-   "zip": "RumbleTracker-0.3.1-win-x64.zip",
-   "zipSha256": "ddabcf6c233f9d87fcf3bf3d607029f6794b2c415cc4d989f32c5efcc33507ec",
-   "exeSha256": "b25aefdff1f226f25317628e6998161d40f9b5284e0e9eb986f7169ac83eb479"
+   "version": "0.3.2",
+   "zip": "RumbleTracker-0.3.2-win-x64.zip",
+   "zipSha256": "5f6df2289949dba280eff607a65f4ddad87f9d6799c7dc0a7046577621270958",
+   "exeSha256": "ea633b2567f88802e0f60aef136965b0184e762dd3aea2699b79fd8fe55187dd"
   }
  }
 }
